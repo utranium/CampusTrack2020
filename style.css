@@ -16,7 +16,12 @@ ul.Poles {
 
 h1 {
     text-align: center;
+    border: 5px;
     border-style: double;
+    padding: 20px;
+    position: relative;
+    margin-left: 30%;
+    margin-right: 30%;
 }
 
 
@@ -24,7 +29,8 @@ ul.Pole1 {
     background-color: rgba(255,228,196,0.5);
     width: 200px;
     text-align: left;
-    margin: 10%;
+    margin-top: 10%;
+    margin-left: 10%;
     padding: -10%;
     border-style: outset;
 }
@@ -34,7 +40,8 @@ ul.Pole2 {
     background-color: rgba(0,255,255,0.5);
     width: 200px;
     text-align: left;
-    margin: 10%;
+    margin-top: 10%;
+    margin-left: 15%;
     padding: -10%;
     border-style: outset;
 }
@@ -44,7 +51,8 @@ ul.Pole3 {
     background-color: rgba(22,184,135,0.5);
     width: 200px;
     text-align: left;
-    margin:10%;
+    margin-top: 10%;
+    margin-left:20%;
     padding: -10%;
     border-style: outset;
 }
