@@ -1,3 +1,17 @@
-ul.poles {
-    display: inline-block;
+ul.Poles {
+    display: inline-flex;
+    list-style: none;
+}
+
+ul.Pole1 {
+    background-color: bisque;
+}
+
+
+ul.Pole2 {
+    background-color: aqua;
+}
+
+ul.Pole3 {
+    background-color: burlywood;
 }
